@@ -1,1 +1,1 @@
-# My Github Blog for recording my journey through Data & Code
+# My Github Blog for Recording my Journey through Data & Code
