@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
+I'm Shreesh. I am currently a student at UCLA pursuing a major in Mathematics/Economics, a specialization in Computing, and a minor in Statistics.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am very passionate about using technology to surface new insights from data and this blog manifests my interest in exploring new tools to better understand and decipher data. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You reach me at shreesh29@g.ucla.edu
