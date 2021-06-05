@@ -3,15 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Hi there 👋  I'm Shreesh.
 
-Hello!
-I'm Shreesh. I am currently a student at UCLA pursuing a major in Mathematics/Economics, a specialization in Computing, and a minor in Statistics.
+- 🔭 I’m currently working on the intersection of NLP and Accounting/Finance 
+- 🌱 I’m currently learning ML, Python, and Statistics
+- 👯 I’m looking to collaborate on Data Analytics projects and research
+- 📫 shreesh29 at g dot ucla dot edu
+- :wind_chime: Spirit Animal: :bear:
+- 😄 Pronouns: He/Him/His
 
-
-### More Information
-
-I am very passionate about using technology to surface new insights from data and this blog manifests my interest in exploring new tools to better understand and decipher data. 
 
 ### Contact me
-
-You reach me at shreesh29@g.ucla.edu
+I'd love to chat. Feel free to reach out :point_down:
